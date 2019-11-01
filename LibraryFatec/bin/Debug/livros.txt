@@ -1,0 +1,383 @@
+1|1001|1984|George Orwell|Pearson
+2|1001|1984|George Orwell|Pearson
+3|1002|Uma Breve Historia do Tempo|Stephen Hawking|ThomsonReuters
+4|1002|Uma Breve Historia do Tempo|Stephen Hawking|ThomsonReuters
+5|1002|Uma Breve Historia do Tempo|Stephen Hawking|ThomsonReuters
+6|1002|Uma Breve Historia do Tempo|Stephen Hawking|ThomsonReuters
+7|1002|Uma Breve Historia do Tempo|Stephen Hawking|ThomsonReuters
+8|1002|Uma Breve Historia do Tempo|Stephen Hawking|ThomsonReuters
+9|1003|Uma Comovente Obra de Espantoso Talento|Dave Eggers|RELX Group
+10|1003|Uma Comovente Obra de Espantoso Talento|Dave Eggers|RELX Group
+11|1003|Uma Comovente Obra de Espantoso Talento|Dave Eggers|RELX Group
+12|1003|Uma Comovente Obra de Espantoso Talento|Dave Eggers|RELX Group
+13|1003|Uma Comovente Obra de Espantoso Talento|Dave Eggers|RELX Group
+14|1003|Uma Comovente Obra de Espantoso Talento|Dave Eggers|RELX Group
+15|1003|Uma Comovente Obra de Espantoso Talento|Dave Eggers|RELX Group
+16|1003|Uma Comovente Obra de Espantoso Talento|Dave Eggers|RELX Group
+17|1004|Muito Longe de Casa|Ishmael Beah|Bertelsmann
+18|1004|Muito Longe de Casa|Ishmael Beah|Bertelsmann
+19|1004|Muito Longe de Casa|Ishmael Beah|Bertelsmann
+20|1004|Muito Longe de Casa|Ishmael Beah|Bertelsmann
+21|1004|Muito Longe de Casa|Ishmael Beah|Bertelsmann
+22|1004|Muito Longe de Casa|Ishmael Beah|Bertelsmann
+23|1004|Muito Longe de Casa|Ishmael Beah|Bertelsmann
+24|1004|Muito Longe de Casa|Ishmael Beah|Bertelsmann
+25|1004|Muito Longe de Casa|Ishmael Beah|Bertelsmann
+26|1005|Mau Começo|Lemony Snicket|Pearson
+27|1005|Mau Começo|Lemony Snicket|Pearson
+28|1005|Mau Começo|Lemony Snicket|Pearson
+29|1005|Mau Começo|Lemony Snicket|Pearson
+30|1005|Mau Começo|Lemony Snicket|Pearson
+31|1005|Mau Começo|Lemony Snicket|Pearson
+32|1005|Mau Começo|Lemony Snicket|Pearson
+33|1005|Mau Começo|Lemony Snicket|Pearson
+34|1005|Mau Começo|Lemony Snicket|Pearson
+35|1005|Mau Começo|Lemony Snicket|Pearson
+36|1005|Mau Começo|Lemony Snicket|Pearson
+37|1006|Uma Dobra no Tempo|Madeleine L’Engle|Wolters Kluwer
+38|1006|Uma Dobra no Tempo|Madeleine L’Engle|Wolters Kluwer
+39|1006|Uma Dobra no Tempo|Madeleine L’Engle|Wolters Kluwer
+40|1006|Uma Dobra no Tempo|Madeleine L’Engle|Wolters Kluwer
+41|1006|Uma Dobra no Tempo|Madeleine L’Engle|Wolters Kluwer
+42|1006|Uma Dobra no Tempo|Madeleine L’Engle|Wolters Kluwer
+43|1006|Uma Dobra no Tempo|Madeleine L’Engle|Wolters Kluwer
+44|1006|Uma Dobra no Tempo|Madeleine L’Engle|Wolters Kluwer
+45|1006|Uma Dobra no Tempo|Madeleine L’Engle|Wolters Kluwer
+46|1006|Uma Dobra no Tempo|Madeleine L’Engle|Wolters Kluwer
+47|1006|Uma Dobra no Tempo|Madeleine L’Engle|Wolters Kluwer
+48|1006|Uma Dobra no Tempo|Madeleine L’Engle|Wolters Kluwer
+49|1006|Uma Dobra no Tempo|Madeleine L’Engle|Wolters Kluwer
+50|1006|Uma Dobra no Tempo|Madeleine L’Engle|Wolters Kluwer
+51|1006|Uma Dobra no Tempo|Madeleine L’Engle|Wolters Kluwer
+52|1006|Uma Dobra no Tempo|Madeleine L’Engle|Wolters Kluwer
+53|1007|Selected Stories, 1968-1994|Alice Munro|ThomsonReuters
+54|1007|Selected Stories, 1968-1994|Alice Munro|ThomsonReuters
+55|1007|Selected Stories, 1968-1994|Alice Munro|ThomsonReuters
+56|1007|Selected Stories, 1968-1994|Alice Munro|ThomsonReuters
+57|1007|Selected Stories, 1968-1994|Alice Munro|ThomsonReuters
+58|1007|Selected Stories, 1968-1994|Alice Munro|ThomsonReuters
+59|1008|Alice|Lewis Carroll|RELX Group
+60|1008|Alice|Lewis Carroll|RELX Group
+61|1009|Todos os Homens do Presidente|Bob Woodward e Carl Bernstein|Labrador
+62|1009|Todos os Homens do Presidente|Bob Woodward e Carl Bernstein|Labrador
+63|1009|Todos os Homens do Presidente|Bob Woodward e Carl Bernstein|Labrador
+64|1009|Todos os Homens do Presidente|Bob Woodward e Carl Bernstein|Labrador
+65|1009|Todos os Homens do Presidente|Bob Woodward e Carl Bernstein|Labrador
+66|1010|As Cinzas de Angela: Memoria|Frank McCourt|Autografia
+67|1010|As Cinzas de Angela: Memoria|Frank McCourt|Autografia
+68|1010|As Cinzas de Angela: Memoria|Frank McCourt|Autografia
+69|1010|As Cinzas de Angela: Memoria|Frank McCourt|Autografia
+70|1010|As Cinzas de Angela: Memoria|Frank McCourt|Autografia
+71|1010|As Cinzas de Angela: Memoria|Frank McCourt|Autografia
+72|1010|As Cinzas de Angela: Memoria|Frank McCourt|Autografia
+73|1011|Voce esta ai, Deus? Sou eu, Margaret|Judy Blume|Pearson
+74|1011|Voce esta ai, Deus? Sou eu, Margaret|Judy Blume|Pearson
+75|1011|Voce esta ai, Deus? Sou eu, Margaret|Judy Blume|Pearson
+76|1011|Voce esta ai, Deus? Sou eu, Margaret|Judy Blume|Pearson
+77|1011|Voce esta ai, Deus? Sou eu, Margaret|Judy Blume|Pearson
+78|1011|Voce esta ai, Deus? Sou eu, Margaret|Judy Blume|Pearson
+79|1011|Voce esta ai, Deus? Sou eu, Margaret|Judy Blume|Pearson
+80|1011|Voce esta ai, Deus? Sou eu, Margaret|Judy Blume|Pearson
+81|1011|Voce esta ai, Deus? Sou eu, Margaret|Judy Blume|Pearson
+82|1012|Bel Canto|Ann Patchett|Jaguatirica
+83|1012|Bel Canto|Ann Patchett|Jaguatirica
+84|1012|Bel Canto|Ann Patchett|Jaguatirica
+85|1012|Bel Canto|Ann Patchett|Jaguatirica
+86|1012|Bel Canto|Ann Patchett|Jaguatirica
+87|1012|Bel Canto|Ann Patchett|Jaguatirica
+88|1012|Bel Canto|Ann Patchett|Jaguatirica
+89|1012|Bel Canto|Ann Patchett|Jaguatirica
+90|1012|Bel Canto|Ann Patchett|Jaguatirica
+91|1012|Bel Canto|Ann Patchett|Jaguatirica
+92|1012|Bel Canto|Ann Patchett|Jaguatirica
+93|1013|Amada|Toni Morrison|RELX Group
+94|1013|Amada|Toni Morrison|RELX Group
+95|1013|Amada|Toni Morrison|RELX Group
+96|1013|Amada|Toni Morrison|RELX Group
+97|1013|Amada|Toni Morrison|RELX Group
+98|1013|Amada|Toni Morrison|RELX Group
+99|1013|Amada|Toni Morrison|RELX Group
+100|1013|Amada|Toni Morrison|RELX Group
+101|1013|Amada|Toni Morrison|RELX Group
+102|1013|Amada|Toni Morrison|RELX Group
+103|1013|Amada|Toni Morrison|RELX Group
+104|1013|Amada|Toni Morrison|RELX Group
+105|1013|Amada|Toni Morrison|RELX Group
+106|1013|Amada|Toni Morrison|RELX Group
+107|1013|Amada|Toni Morrison|RELX Group
+108|1014|Nascido para Correr|Christopher McDougall|Bertelsmann
+109|1014|Nascido para Correr|Christopher McDougall|Bertelsmann
+110|1014|Nascido para Correr|Christopher McDougall|Bertelsmann
+111|1014|Nascido para Correr|Christopher McDougall|Bertelsmann
+112|1014|Nascido para Correr|Christopher McDougall|Bertelsmann
+113|1014|Nascido para Correr|Christopher McDougall|Bertelsmann
+114|1015|Breath, Eyes, Memory|Edwidge Danticat|Pearson
+115|1015|Breath, Eyes, Memory|Edwidge Danticat|Pearson
+116|1016|Artigo 22|Joseph Heller|Giostri
+117|1016|Artigo 22|Joseph Heller|Giostri
+118|1016|Artigo 22|Joseph Heller|Giostri
+119|1016|Artigo 22|Joseph Heller|Giostri
+120|1016|Artigo 22|Joseph Heller|Giostri
+121|1017|A Fantastica Fabrica de Chocolate|Roald Dahl|RELX Group
+122|1017|A Fantastica Fabrica de Chocolate|Roald Dahl|RELX Group
+123|1017|A Fantastica Fabrica de Chocolate|Roald Dahl|RELX Group
+124|1017|A Fantastica Fabrica de Chocolate|Roald Dahl|RELX Group
+125|1017|A Fantastica Fabrica de Chocolate|Roald Dahl|RELX Group
+126|1017|A Fantastica Fabrica de Chocolate|Roald Dahl|RELX Group
+127|1017|A Fantastica Fabrica de Chocolate|Roald Dahl|RELX Group
+128|1018|A Menina e o Porquinho|E. B. White|ThomsonReuters
+129|1018|A Menina e o Porquinho|E. B. White|ThomsonReuters
+130|1018|A Menina e o Porquinho|E. B. White|ThomsonReuters
+131|1018|A Menina e o Porquinho|E. B. White|ThomsonReuters
+132|1018|A Menina e o Porquinho|E. B. White|ThomsonReuters
+133|1019|O Decimo Primeiro Mandamento|Abraham Verghese|Labrador
+134|1019|O Decimo Primeiro Mandamento|Abraham Verghese|Labrador
+135|1019|O Decimo Primeiro Mandamento|Abraham Verghese|Labrador
+136|1019|O Decimo Primeiro Mandamento|Abraham Verghese|Labrador
+137|1020|A Coragem de Ser Imperfeito|Brene Brown|Autografia
+138|1020|A Coragem de Ser Imperfeito|Brene Brown|Autografia
+139|1020|A Coragem de Ser Imperfeito|Brene Brown|Autografia
+140|1021|Diario de Um Banana|Jeff Kinney|Pearson
+141|1022|Duna (Cronicas de Duna)|Frank Herbert|Jaguatirica
+142|1022|Duna (Cronicas de Duna)|Frank Herbert|Jaguatirica
+143|1023|Fahrenheit 451|Ray Bradbury|Wolters Kluwer
+144|1023|Fahrenheit 451|Ray Bradbury|Wolters Kluwer
+145|1023|Fahrenheit 451|Ray Bradbury|Wolters Kluwer
+146|1023|Fahrenheit 451|Ray Bradbury|Wolters Kluwer
+147|1023|Fahrenheit 451|Ray Bradbury|Wolters Kluwer
+148|1024|Medo e Delirio em Las Vegas|Hunter S. Thompson|Bertelsmann
+149|1024|Medo e Delirio em Las Vegas|Hunter S. Thompson|Bertelsmann
+150|1024|Medo e Delirio em Las Vegas|Hunter S. Thompson|Bertelsmann
+151|1024|Medo e Delirio em Las Vegas|Hunter S. Thompson|Bertelsmann
+152|1024|Medo e Delirio em Las Vegas|Hunter S. Thompson|Bertelsmann
+153|1024|Medo e Delirio em Las Vegas|Hunter S. Thompson|Bertelsmann
+154|1025|Garota Exemplar|Gillian Flynn|Pearson
+155|1025|Garota Exemplar|Gillian Flynn|Pearson
+156|1025|Garota Exemplar|Gillian Flynn|Pearson
+157|1026|Boa Noite, Lua|Margaret Wise Brown|ThomsonReuters
+158|1026|Boa Noite, Lua|Margaret Wise Brown|ThomsonReuters
+159|1026|Boa Noite, Lua|Margaret Wise Brown|ThomsonReuters
+160|1026|Boa Noite, Lua|Margaret Wise Brown|ThomsonReuters
+161|1026|Boa Noite, Lua|Margaret Wise Brown|ThomsonReuters
+162|1026|Boa Noite, Lua|Margaret Wise Brown|ThomsonReuters
+163|1026|Boa Noite, Lua|Margaret Wise Brown|ThomsonReuters
+164|1027|Grandes Esperanças|Charles Dickens|Labrador
+165|1027|Grandes Esperanças|Charles Dickens|Labrador
+166|1027|Grandes Esperanças|Charles Dickens|Labrador
+167|1027|Grandes Esperanças|Charles Dickens|Labrador
+168|1027|Grandes Esperanças|Charles Dickens|Labrador
+169|1028|Armas, Germes e Aço|Jared Diamond|Wolters Kluwer
+170|1028|Armas, Germes e Aço|Jared Diamond|Wolters Kluwer
+171|1028|Armas, Germes e Aço|Jared Diamond|Wolters Kluwer
+172|1029|Harry Potter e a Pedra Filosofal|J. K. Rowling|Scortecci
+173|1029|Harry Potter e a Pedra Filosofal|J. K. Rowling|Scortecci
+174|1030|A Sangue Frio|Truman Capote|Autografia
+175|1030|A Sangue Frio|Truman Capote|Autografia
+176|1030|A Sangue Frio|Truman Capote|Autografia
+177|1030|A Sangue Frio|Truman Capote|Autografia
+178|1030|A Sangue Frio|Truman Capote|Autografia
+179|1031|Interprete de Males|Jhumpa Lahiri|Giostri
+180|1031|Interprete de Males|Jhumpa Lahiri|Giostri
+181|1031|Interprete de Males|Jhumpa Lahiri|Giostri
+182|1031|Interprete de Males|Jhumpa Lahiri|Giostri
+183|1031|Interprete de Males|Jhumpa Lahiri|Giostri
+184|1031|Interprete de Males|Jhumpa Lahiri|Giostri
+185|1031|Interprete de Males|Jhumpa Lahiri|Giostri
+186|1032|Homem Invisivel|Ralph Ellison|RELX Group
+187|1032|Homem Invisivel|Ralph Ellison|RELX Group
+188|1032|Homem Invisivel|Ralph Ellison|RELX Group
+189|1033|Jimmy Corrigan: O Menino Mais Esperto do Mundo|Chris Ware|Labrador
+190|1033|Jimmy Corrigan: O Menino Mais Esperto do Mundo|Chris Ware|Labrador
+191|1033|Jimmy Corrigan: O Menino Mais Esperto do Mundo|Chris Ware|Labrador
+192|1033|Jimmy Corrigan: O Menino Mais Esperto do Mundo|Chris Ware|Labrador
+193|1033|Jimmy Corrigan: O Menino Mais Esperto do Mundo|Chris Ware|Labrador
+194|1034|Cozinha Confidencial|Anthony Bourdain|Jaguatirica
+195|1034|Cozinha Confidencial|Anthony Bourdain|Jaguatirica
+196|1034|Cozinha Confidencial|Anthony Bourdain|Jaguatirica
+197|1034|Cozinha Confidencial|Anthony Bourdain|Jaguatirica
+198|1034|Cozinha Confidencial|Anthony Bourdain|Jaguatirica
+199|1034|Cozinha Confidencial|Anthony Bourdain|Jaguatirica
+200|1034|Cozinha Confidencial|Anthony Bourdain|Jaguatirica
+201|1035|O Fio da Vida|Kate Atkinson|ThomsonReuters
+202|1035|O Fio da Vida|Kate Atkinson|ThomsonReuters
+203|1035|O Fio da Vida|Kate Atkinson|ThomsonReuters
+204|1035|O Fio da Vida|Kate Atkinson|ThomsonReuters
+205|1036|Uma Casa na Campina|Laura Ingalls Wilder|Pearson
+206|1036|Uma Casa na Campina|Laura Ingalls Wilder|Pearson
+207|1037|Lolita|Vladimir Nabokov|Bertelsmann
+208|1037|Lolita|Vladimir Nabokov|Bertelsmann
+209|1037|Lolita|Vladimir Nabokov|Bertelsmann
+210|1038|O Amor nos Tempos do Colera|Gabriel Garcia Marquez|Giostri
+211|1038|O Amor nos Tempos do Colera|Gabriel Garcia Marquez|Giostri
+212|1038|O Amor nos Tempos do Colera|Gabriel Garcia Marquez|Giostri
+213|1038|O Amor nos Tempos do Colera|Gabriel Garcia Marquez|Giostri
+214|1038|O Amor nos Tempos do Colera|Gabriel Garcia Marquez|Giostri
+215|1038|O Amor nos Tempos do Colera|Gabriel Garcia Marquez|Giostri
+216|1039|Love Medicine|Mcgraw-Hill|Autografia
+217|1039|Love Medicine|Mcgraw-Hill|Autografia
+218|1039|Love Medicine|Mcgraw-Hill|Autografia
+219|1039|Love Medicine|Mcgraw-Hill|Autografia
+220|1040|Em Busca de Sentido|Viktor E. Frankl|Wolters Kluwer
+221|1040|Em Busca de Sentido|Viktor E. Frankl|Wolters Kluwer
+222|1040|Em Busca de Sentido|Viktor E. Frankl|Wolters Kluwer
+223|1040|Em Busca de Sentido|Viktor E. Frankl|Wolters Kluwer
+224|1040|Em Busca de Sentido|Viktor E. Frankl|Wolters Kluwer
+225|1040|Em Busca de Sentido|Viktor E. Frankl|Wolters Kluwer
+226|1041|Eu Falar Bonito um Dia|David Sedaris|Pearson
+227|1041|Eu Falar Bonito um Dia|David Sedaris|Pearson
+228|1041|Eu Falar Bonito um Dia|David Sedaris|Pearson
+229|1041|Eu Falar Bonito um Dia|David Sedaris|Pearson
+230|1041|Eu Falar Bonito um Dia|David Sedaris|Pearson
+231|1041|Eu Falar Bonito um Dia|David Sedaris|Pearson
+232|1041|Eu Falar Bonito um Dia|David Sedaris|Pearson
+233|1041|Eu Falar Bonito um Dia|David Sedaris|Pearson
+234|1042|Middlesex|Jeffrey Eugenides|Jaguatirica
+235|1042|Middlesex|Jeffrey Eugenides|Jaguatirica
+236|1042|Middlesex|Jeffrey Eugenides|Jaguatirica
+237|1042|Middlesex|Jeffrey Eugenides|Jaguatirica
+238|1043|Os Filhos da Meia-Noite|Salman Rushdie|Labrador
+239|1043|Os Filhos da Meia-Noite|Salman Rushdie|Labrador
+240|1044|Moneyball: O Homem que Mudou o Jogo|Michael Lewis|RELX Group
+241|1044|Moneyball: O Homem que Mudou o Jogo|Michael Lewis|RELX Group
+242|1044|Moneyball: O Homem que Mudou o Jogo|Michael Lewis|RELX Group
+243|1044|Moneyball: O Homem que Mudou o Jogo|Michael Lewis|RELX Group
+244|1045|Servidao Humana|William Somerset Maugham|Pearson
+245|1045|Servidao Humana|William Somerset Maugham|Pearson
+246|1045|Servidao Humana|William Somerset Maugham|Pearson
+247|1045|Servidao Humana|William Somerset Maugham|Pearson
+248|1045|Servidao Humana|William Somerset Maugham|Pearson
+249|1046|On The Road (Pe Na Estrada)|Jack Kerouac|Jaguatirica
+250|1046|On The Road (Pe Na Estrada)|Jack Kerouac|Jaguatirica
+251|1046|On The Road (Pe Na Estrada)|Jack Kerouac|Jaguatirica
+252|1046|On The Road (Pe Na Estrada)|Jack Kerouac|Jaguatirica
+253|1047|Out of Africa|Isak Dinesen|Labrador
+254|1047|Out of Africa|Isak Dinesen|Labrador
+255|1047|Out of Africa|Isak Dinesen|Labrador
+256|1047|Out of Africa|Isak Dinesen|Labrador
+257|1047|Out of Africa|Isak Dinesen|Labrador
+258|1047|Out of Africa|Isak Dinesen|Labrador
+259|1048|Persepolis|Marjane Satrapi|ThomsonReuters
+260|1048|Persepolis|Marjane Satrapi|ThomsonReuters
+261|1048|Persepolis|Marjane Satrapi|ThomsonReuters
+262|1048|Persepolis|Marjane Satrapi|ThomsonReuters
+263|1049|O Complexo de Portnoy|Philip Roth|RELX Group
+264|1049|O Complexo de Portnoy|Philip Roth|RELX Group
+265|1049|O Complexo de Portnoy|Philip Roth|RELX Group
+266|1050|Orgulho e Preconceito|Jane Austen|Autografia
+267|1050|Orgulho e Preconceito|Jane Austen|Autografia
+268|1050|Orgulho e Preconceito|Jane Austen|Autografia
+269|1051|Primavera Silenciosa|Rachel Carson|Bertelsmann
+270|1051|Primavera Silenciosa|Rachel Carson|Bertelsmann
+271|1051|Primavera Silenciosa|Rachel Carson|Bertelsmann
+272|1051|Primavera Silenciosa|Rachel Carson|Bertelsmann
+273|1051|Primavera Silenciosa|Rachel Carson|Bertelsmann
+274|1051|Primavera Silenciosa|Rachel Carson|Bertelsmann
+275|1051|Primavera Silenciosa|Rachel Carson|Bertelsmann
+276|1051|Primavera Silenciosa|Rachel Carson|Bertelsmann
+277|1052|Matadouro 5|Kurt Vonnegut|Scortecci
+278|1052|Matadouro 5|Kurt Vonnegut|Scortecci
+279|1052|Matadouro 5|Kurt Vonnegut|Scortecci
+280|1052|Matadouro 5|Kurt Vonnegut|Scortecci
+281|1052|Matadouro 5|Kurt Vonnegut|Scortecci
+282|1053|Lincoln|Doris Kearns Goodwin|Wolters Kluwer
+283|1053|Lincoln|Doris Kearns Goodwin|Wolters Kluwer
+284|1053|Lincoln|Doris Kearns Goodwin|Wolters Kluwer
+285|1054|A epoca da Inocencia|Edith Wharton|Jaguatirica
+286|1054|A epoca da Inocencia|Edith Wharton|Jaguatirica
+287|1055|As Incriveis Aventuras de Kavalier e Clay|Michael Chabon|Labrador
+288|1055|As Incriveis Aventuras de Kavalier e Clay|Michael Chabon|Labrador
+289|1055|As Incriveis Aventuras de Kavalier e Clay|Michael Chabon|Labrador
+290|1056|A Autobiografia de Malcolm X|Alex Haley|Pearson
+291|1056|A Autobiografia de Malcolm X|Alex Haley|Pearson
+292|1056|A Autobiografia de Malcolm X|Alex Haley|Pearson
+293|1057|A Menina Que Roubava Livros|Markus Zusak|Giostri
+294|1058|A Fantastica Vida Breve de Oscar Wao|Junot Diaz|Bertelsmann
+295|1059|O Apanhador no Campo de Centeio|J. D. Salinger|Wolters Kluwer
+296|1060|A Cor da agua: Tributo de um Negro a sua Mae Branca|James McBride|Pearson
+297|1060|A Cor da agua: Tributo de um Negro a sua Mae Branca|James McBride|Pearson
+298|1060|A Cor da agua: Tributo de um Negro a sua Mae Branca|James McBride|Pearson
+299|1061|As Correçoes|Jonathan Franzen|Labrador
+300|1061|As Correçoes|Jonathan Franzen|Labrador
+301|1061|As Correçoes|Jonathan Franzen|Labrador
+302|1062|O Demonio na Cidade Branca|Erik Larson|ThomsonReuters
+303|1062|O Demonio na Cidade Branca|Erik Larson|ThomsonReuters
+304|1063|O Diario de Anne Frank|Anne Frank|Autografia
+305|1063|O Diario de Anne Frank|Anne Frank|Autografia
+306|1063|O Diario de Anne Frank|Anne Frank|Autografia
+307|1064|A Culpa e das Estrelas|John Green|Bertelsmann
+308|1064|A Culpa e das Estrelas|John Green|Bertelsmann
+309|1065|O Doador De Memorias|Lois Lowry|RELX Group
+310|1065|O Doador De Memorias|Lois Lowry|RELX Group
+311|1066|A Bússola De Ouro|Philip Pullman|Jaguatirica
+312|1067|O Grande Gatsby|F. Scott Fitzgerald|Wolters Kluwer
+313|1067|O Grande Gatsby|F. Scott Fitzgerald|Wolters Kluwer
+314|1068|O Conto da Aia|Margaret Atwood|RELX Group
+315|1069|A Casa no Cantinho do Puff|A. A. Milne|Labrador
+316|1070|Jogos Vorazes|Suzanne Collins|ThomsonReuters
+317|1070|Jogos Vorazes|Suzanne Collins|ThomsonReuters
+318|1071|A Vida Imortal de Henrietta Lacks|Rebecca Skloot|Pearson
+319|1072|The Liars’ Club: A Memoir|Mary Karr|Giostri
+320|1073|O Ladrao de Raios (Percy Jackson e Os Olimpianos)|Rick Riordan|Autografia
+321|1074|O Pequeno Principe|Antoine de Saint-Exupery|Pearson
+322|1074|O Pequeno Principe|Antoine de Saint-Exupery|Pearson
+323|1074|O Pequeno Principe|Antoine de Saint-Exupery|Pearson
+324|1074|O Pequeno Principe|Antoine de Saint-Exupery|Pearson
+325|1074|O Pequeno Principe|Antoine de Saint-Exupery|Pearson
+326|1075|O Longo Adeus|Raymond Chandler|Bertelsmann
+327|1076|O Vulto das Torres|Lawrence Wright|Giostri
+328|1076|O Vulto das Torres|Lawrence Wright|Giostri
+329|1077|O Senhor dos Aneis: A Sociedade do Anel|J. R. R. Tolkien|Jaguatirica
+330|1077|O Senhor dos Aneis: A Sociedade do Anel|J. R. R. Tolkien|Jaguatirica
+331|1078|O Homem que Confundiu Sua Mulher com Um Chapeu|Oliver Sacks|Labrador
+332|1078|O Homem que Confundiu Sua Mulher com Um Chapeu|Oliver Sacks|Labrador
+333|1078|O Homem que Confundiu Sua Mulher com Um Chapeu|Oliver Sacks|Labrador
+334|1079|Cozinhar: Uma Historia Natural Da Transformaçao|Michel Pollan|RELX Group
+335|1079|Cozinhar: Uma Historia Natural Da Transformaçao|Michel Pollan|RELX Group
+336|1079|Cozinhar: Uma Historia Natural Da Transformaçao|Michel Pollan|RELX Group
+337|1080|Tudo Depende de Como Voce Ve As Coisas|Norton Juster|Scortecci
+338|1080|Tudo Depende de Como Voce Ve As Coisas|Norton Juster|Scortecci
+339|1080|Tudo Depende de Como Voce Ve As Coisas|Norton Juster|Scortecci
+340|1080|Tudo Depende de Como Voce Ve As Coisas|Norton Juster|Scortecci
+341|1081|A Biblia Envenenada|Barbara Kingsolver|Bertelsmann
+342|1082|The Power Broker|Robert A. Caro|ThomsonReuters
+343|1083|The Right Stuff|Tom Wolfe|Scortecci
+344|1083|The Right Stuff|Tom Wolfe|Scortecci
+345|1084|A Estrada|Cormac McCarthy|RELX Group
+346|1084|A Estrada|Cormac McCarthy|RELX Group
+347|1085|A Historia Secreta|Donna Tartt|Jaguatirica
+348|1085|A Historia Secreta|Donna Tartt|Jaguatirica
+349|1085|A Historia Secreta|Donna Tartt|Jaguatirica
+350|1086|O Iluminado|Stephen King|Pearson
+351|1086|O Iluminado|Stephen King|Pearson
+352|1087|O Estrangeiro|Albert Camus|Autografia
+353|1087|O Estrangeiro|Albert Camus|Autografia
+354|1088|O Sol Tambem Se Levanta|Ernest Hemingway|Labrador
+355|1089|The Things They Carried|Tim O’Brien|Pearson
+356|1090|Uma Lagarta Muito Comilona|Eric Carle|Giostri
+357|1090|Uma Lagarta Muito Comilona|Eric Carle|Giostri
+358|1090|Uma Lagarta Muito Comilona|Eric Carle|Giostri
+359|1090|Uma Lagarta Muito Comilona|Eric Carle|Giostri
+360|1090|Uma Lagarta Muito Comilona|Eric Carle|Giostri
+361|1090|Uma Lagarta Muito Comilona|Eric Carle|Giostri
+362|1090|Uma Lagarta Muito Comilona|Eric Carle|Giostri
+363|1091|O Vento nos Salgueiros|Kenneth Grahame|ThomsonReuters
+364|1092|Cronica do Passaro de Corda|Haruki Murakami|RELX Group
+365|1093|O Mundo Segundo Garp|John Irving|Autografia
+366|1093|O Mundo Segundo Garp|John Irving|Autografia
+367|1094|O Ano do Pensamento Magico|Joan Didion|RELX Group
+368|1094|O Ano do Pensamento Magico|Joan Didion|RELX Group
+369|1094|O Ano do Pensamento Magico|Joan Didion|RELX Group
+370|1094|O Ano do Pensamento Magico|Joan Didion|RELX Group
+371|1094|O Ano do Pensamento Magico|Joan Didion|RELX Group
+372|1095|O Mundo se Despedaça|Chinua Achebe|Bertelsmann
+373|1095|O Mundo se Despedaça|Chinua Achebe|Bertelsmann
+374|1095|O Mundo se Despedaça|Chinua Achebe|Bertelsmann
+375|1096|O Sol e Para Todos|Harper Lee|Labrador
+376|1097|Invencivel|Laura Hillenbrand|Pearson
+377|1097|Invencivel|Laura Hillenbrand|Pearson
+378|1098|Vale das Bonecas|Jacqueline Susann|RELX Group
+379|1099|Where the Sidewalk Ends|Shel Silverstein|ThomsonReuters
+380|1099|Where the Sidewalk Ends|Shel Silverstein|ThomsonReuters
+381|1099|Where the Sidewalk Ends|Shel Silverstein|ThomsonReuters
+382|1100|Onde Vivem os Monstros|Maurice Sendak|Pearson
+383|1100|Onde Vivem os Monstros|Maurice Sendak|Pearson

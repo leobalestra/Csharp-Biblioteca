@@ -1,0 +1,179 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{EC59A3E7-5EBC-4695-A79A-C92A2A2691F7}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>LibraryFatec</RootNamespace>
+    <AssemblyName>LibraryFatec</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>icons8-biblioteca-64 %281%29.ico</ApplicationIcon>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="DataTXT.cs" />
+    <Compile Include="TelasInicio\frmCriarCliente.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="TelasInicio\frmCriarCliente.Designer.cs">
+      <DependentUpon>frmCriarCliente.cs</DependentUpon>
+    </Compile>
+    <Compile Include="TelasInicio\frmCriarProfissional.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="TelasInicio\frmCriarProfissional.Designer.cs">
+      <DependentUpon>frmCriarProfissional.cs</DependentUpon>
+    </Compile>
+    <Compile Include="TelasInicio\frmDevolver.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="TelasInicio\frmDevolver.Designer.cs">
+      <DependentUpon>frmDevolver.cs</DependentUpon>
+    </Compile>
+    <Compile Include="TelasInicio\frmEditarLivro.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="TelasInicio\frmEditarLivro.Designer.cs">
+      <DependentUpon>frmEditarLivro.cs</DependentUpon>
+    </Compile>
+    <Compile Include="TelasInicio\frmRelatorios.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="TelasInicio\frmRelatorios.Designer.cs">
+      <DependentUpon>frmRelatorios.cs</DependentUpon>
+    </Compile>
+    <Compile Include="TelasInicio\frmReservar.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="TelasInicio\frmReservar.Designer.cs">
+      <DependentUpon>frmReservar.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmTelaPrincipal.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmTelaPrincipal.Designer.cs">
+      <DependentUpon>frmTelaPrincipal.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmLogon.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmLogon.Designer.cs">
+      <DependentUpon>frmLogon.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="frmTelaPrincipal.resx">
+      <DependentUpon>frmTelaPrincipal.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmLogon.resx">
+      <DependentUpon>frmLogon.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="TelasInicio\frmCriarCliente.resx">
+      <DependentUpon>frmCriarCliente.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="TelasInicio\frmCriarProfissional.resx">
+      <DependentUpon>frmCriarProfissional.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="TelasInicio\frmDevolver.resx">
+      <DependentUpon>frmDevolver.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="TelasInicio\frmEditarLivro.resx">
+      <DependentUpon>frmEditarLivro.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="TelasInicio\frmRelatorios.resx">
+      <DependentUpon>frmRelatorios.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="TelasInicio\frmReservar.resx">
+      <DependentUpon>frmReservar.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\exit+left+logout+move+previous+right+icon-1320086096222518378.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\log-out.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-adicionar-bilhete-80.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-apresentação-96 %281%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-devolver-o-livro-512 %281%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-leitura-80 %281%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-leitura-80.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-livro-100 %281%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="icons8-biblioteca-64 %281%29.ico" />
+    <None Include="Resources\loupe.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

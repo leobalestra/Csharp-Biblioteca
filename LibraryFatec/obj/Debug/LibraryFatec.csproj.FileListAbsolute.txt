@@ -1,0 +1,16 @@
+C:\Users\lbalestra\source\repos\LibraryFatec\LibraryFatec\bin\Debug\LibraryFatec.exe.config
+C:\Users\lbalestra\source\repos\LibraryFatec\LibraryFatec\bin\Debug\LibraryFatec.exe
+C:\Users\lbalestra\source\repos\LibraryFatec\LibraryFatec\bin\Debug\LibraryFatec.pdb
+C:\Users\lbalestra\source\repos\LibraryFatec\LibraryFatec\obj\Debug\LibraryFatec.csprojAssemblyReference.cache
+C:\Users\lbalestra\source\repos\LibraryFatec\LibraryFatec\obj\Debug\LibraryFatec.frmTelaPrincipal.resources
+C:\Users\lbalestra\source\repos\LibraryFatec\LibraryFatec\obj\Debug\LibraryFatec.frmLogon.resources
+C:\Users\lbalestra\source\repos\LibraryFatec\LibraryFatec\obj\Debug\LibraryFatec.Properties.Resources.resources
+C:\Users\lbalestra\source\repos\LibraryFatec\LibraryFatec\obj\Debug\LibraryFatec.frmCriarCliente.resources
+C:\Users\lbalestra\source\repos\LibraryFatec\LibraryFatec\obj\Debug\LibraryFatec.frmCriarProfissional.resources
+C:\Users\lbalestra\source\repos\LibraryFatec\LibraryFatec\obj\Debug\LibraryFatec.frmDevolver.resources
+C:\Users\lbalestra\source\repos\LibraryFatec\LibraryFatec\obj\Debug\LibraryFatec.frmEditarLivro.resources
+C:\Users\lbalestra\source\repos\LibraryFatec\LibraryFatec\obj\Debug\LibraryFatec.frmRelatorios.resources
+C:\Users\lbalestra\source\repos\LibraryFatec\LibraryFatec\obj\Debug\LibraryFatec.frmReservar.resources
+C:\Users\lbalestra\source\repos\LibraryFatec\LibraryFatec\obj\Debug\LibraryFatec.csproj.GenerateResource.cache
+C:\Users\lbalestra\source\repos\LibraryFatec\LibraryFatec\obj\Debug\LibraryFatec.exe
+C:\Users\lbalestra\source\repos\LibraryFatec\LibraryFatec\obj\Debug\LibraryFatec.pdb
